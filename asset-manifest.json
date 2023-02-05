@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/greenbull/static/css/main.a8b7e47c.css",
-    "main.js": "/greenbull/static/js/main.fe35760d.js",
+    "main.js": "/greenbull/static/js/main.f2fb8dd0.js",
     "static/media/laptopp.png": "/greenbull/static/media/laptopp.44abfa1e7e809c67769f.png",
     "static/media/triple.png": "/greenbull/static/media/triple.30db1d948e24325276cf.png",
     "static/media/double.png": "/greenbull/static/media/double.e2f7410dac3fb42c218d.png",
     "static/media/single.png": "/greenbull/static/media/single.6e377c252116267ca6ec.png",
     "index.html": "/greenbull/index.html",
     "main.a8b7e47c.css.map": "/greenbull/static/css/main.a8b7e47c.css.map",
-    "main.fe35760d.js.map": "/greenbull/static/js/main.fe35760d.js.map"
+    "main.f2fb8dd0.js.map": "/greenbull/static/js/main.f2fb8dd0.js.map"
   },
   "entrypoints": [
     "static/css/main.a8b7e47c.css",
-    "static/js/main.fe35760d.js"
+    "static/js/main.f2fb8dd0.js"
   ]
 }
